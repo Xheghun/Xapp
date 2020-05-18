@@ -40,4 +40,7 @@ flutter:
     - family: Poppins-Semi-Bold
       fonts:
         - asset: assets/fonts/poppins_semi_bold.ttf
+    - family: Poppins-Medium
+      fonts:
+        - asset: assets/fonts/poppins_medium.ttf
 

@@ -15,7 +15,6 @@ class App extends StatelessWidget {
         home: LoginScreen(),
         theme: ThemeData(
           fontFamily: "Comfortaa-Regular",
-          scaffoldBackgroundColor: Colors.white,
         ),
         routes: <String, WidgetBuilder>{
           LoginScreen.routeName: (context) => LoginScreen(),
